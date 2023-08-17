@@ -1,12 +1,14 @@
 ### 😊Profile
 Integrated M.S. Student (Sep. 2022 ~ Present)<br>
-[System Software Lab(SSLab)](https://sites.google.com/sungshin.ac.kr/ssl/home)
+[System Software Lab(SSLab)](https://sites.google.com/sungshin.ac.kr/ssl/home)<br>
 Department of Computer Engineering Sungshin Women's University <br>
 Seoul, Republic of Korea<br>
+---
 <a href="https://www.linkedin.com/in/seolryeong-an/" target="_blank"><img src="https://img.shields.io/badge/SeolryeongAn-%230A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://sites.google.com/view/seolryeonan/" target="_blank"><img src="https://img.shields.io/badge/Profile-%234285F4?style=flat&logo=google&logoColor=white"/></a>
  <a href="mailto:220234009@sungshin.ac.kr"><img src="https://img.shields.io/badge/220234009@sungshin.ac.kr-%23EA4335?style=flat&logo=Gmail&logoColor=white"/></a><br>
-> I'm interested in Systems Software, especially in fast storage device.<br>
+---
+I'm interested in Systems Software, especially in fast storage device.<br>
 
 
 ### 💻Skills
