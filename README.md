@@ -22,7 +22,7 @@ I'm interested in Systems Software, especially in fast storage device.<br>
 <a><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=Docker&logoColor=white"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seolryeong&layout=compact"><br>
-[![Seolryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolryeong)](https://github.com/seolryoeng/github-readme-stats)
+[![Seolryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolryeong&count_private=true)](https://github.com/seolryoeng/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asr0904)](https://solved.ac/asr0904)
 <!--
