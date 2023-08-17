@@ -1,4 +1,4 @@
-<a target="_blank"><img src="https://img.shields.io/badge/42-000000?style=flat&logo=42Seoul&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/42-000000?style=flat&logo=42Seoul&logoColor=white"/></a>
 ### Hi there 👋
 
 <!--
