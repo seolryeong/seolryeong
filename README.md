@@ -3,13 +3,10 @@ Integrated M.S. Student (Sep. 2022 ~ Present)<br>
 [System Software Lab(SSLab)](https://sites.google.com/sungshin.ac.kr/ssl/home)<br>
 Department of Computer Engineering Sungshin Women's University <br>
 Seoul, Republic of Korea<br>
-<br>---</br>
 <a href="https://www.linkedin.com/in/seolryeong-an/" target="_blank"><img src="https://img.shields.io/badge/SeolryeongAn-%230A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://sites.google.com/view/seolryeonan/" target="_blank"><img src="https://img.shields.io/badge/Profile-%234285F4?style=flat&logo=google&logoColor=white"/></a>
  <a href="mailto:220234009@sungshin.ac.kr"><img src="https://img.shields.io/badge/220234009@sungshin.ac.kr-%23EA4335?style=flat&logo=Gmail&logoColor=white"/></a><br>
-<br>---</br>
 I'm interested in Systems Software, especially in fast storage device.<br>
-
 
 ### 💻Skills
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
@@ -24,6 +21,10 @@ I'm interested in Systems Software, especially in fast storage device.<br>
 <a><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=Linux&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=Docker&logoColor=white"/></a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seolryeong&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=seolryeong&show_icons=true">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asr0904)](https://solved.ac/asr0904)
 <!--
 **seolryeong/seolryeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
