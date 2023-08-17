@@ -1,6 +1,6 @@
 ### 😊Profile
 Integrated M.S. Student (Sep. 2022 ~ Present)<br>
-<a herf="https://sites.google.com/sungshin.ac.kr/ssl/home">System software Lab(SSLab)</a><br>
+<a herf="https://sites.google.com/sungshin.ac.kr/ssl/home" target="_blank">System Software Lab(SSLab)</a><br>
 Department of Computer Engineering Sungshin Women's University <br>
 Seoul, Republic of Korea<br>
 <a href="https://www.linkedin.com/in/seolryeong-an/" target="_blank"><img src="https://img.shields.io/badge/SeolryeongAn-%230A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
