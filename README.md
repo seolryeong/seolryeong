@@ -6,7 +6,7 @@
 
 ## 💻SKILL
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/></a>
