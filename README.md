@@ -1,8 +1,22 @@
-<a href="https://www.linkedin.com/in/seolryeong-an/" target="_blank"><img src="https://img.shields.io/badge/SeolryeongAn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://sites.google.com/view/seolryeonan/" target="_blank"><img src="https://img.shields.io/badge/Profile-4285F4?style=flat&logo=google&logoColor=white"/></a>
- <a href="mailto:220234009@sungshin.ac.kr"><img src="https://img.shields.io/badge/220234009@sungshin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/42Seoul-white?style=flat&logo=42&logoColor=000000"/></a>
+<a href="https://www.linkedin.com/in/seolryeong-an/" target="_blank"><img src="https://img.shields.io/badge/SeolryeongAn-%230A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://sites.google.com/view/seolryeonan/" target="_blank"><img src="https://img.shields.io/badge/Profile-%234285F4?style=flat&logo=google&logoColor=white"/></a>
+ <a href="mailto:220234009@sungshin.ac.kr"><img src="https://img.shields.io/badge/220234009@sungshin.ac.kr-%23EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-%23ED8B00.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/></a>
+
 ### Hi there 👋
+
+## 💻SKILL
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+
 
 <!--
 **seolryeong/seolryeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
