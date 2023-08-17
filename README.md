@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/badge/42Seoul-white?style=flat&logo=42&logoColor=000000"/>
-<a href="https://www.linkedin.com/in/seolryeong-an/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://sites.google.com/view/seolryeonan/" target="_blank"><img src="https://img.shields.io/badge/profile-white?style=flat&logo=google&logoColor=4285F4"/></a>
+<img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=white"/>
+<a href="https://www.linkedin.com/in/seolryeong-an/" target="_blank"><img src="https://img.shields.io/badge/SeolryeongAn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://sites.google.com/view/seolryeonan/" target="_blank"><img src="https://img.shields.io/badge/Profile-4285F4?style=flat&logo=google&logoColor=white"/></a>
 ### Hi there 👋
 
 <!--
