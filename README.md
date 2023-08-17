@@ -12,14 +12,13 @@ I'm interested in Systems Software, especially in fast storage device.<br>
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/JavaScript-%23ED8B00.svg?style=flat&logo=JavaScript&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-%23ED8B00.svg?style=flat&logo=JavaScript&logoColor=white"/></a><br>
+<a><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=Linux&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=Docker&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=Node.js&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=PHP&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=MySQL&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=Linux&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=Docker&logoColor=white"/></a>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asr0904)](https://solved.ac/asr0904)
 
