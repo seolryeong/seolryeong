@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/42-white?style=flat&logo=42Seoul&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/42-white?style=flat&logo=42&logoColor=000000"/></a>
 ### Hi there 👋
 
 <!--
