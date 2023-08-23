@@ -19,8 +19,6 @@ Research Area : Operating Systems, Storage Systems, Distributed Systems<br>
 <a><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=PHP&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=MySQL&logoColor=white"/></a>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asr0904)](https://solved.ac/asr0904)
-
 <!--
 **seolryeong/seolryeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
