@@ -1,3 +1,8 @@
+Integrated M.S. Student (Sep. 2022 ~ Present)<br>
+[System Software Lab(SSLab)](https://sites.google.com/sungshin.ac.kr/ssl/home)<br>
+Department of Computer Engineering Sungshin Women's University, Seoul, Republic of Korea<br>
+Research Area : Storage Systems, Operating Systems, Distributed Systems<br>
+<!--
 ### Profile
 Integrated M.S. Student (Sep. 2022 ~ Present)<br>
 [System Software Lab(SSLab)](https://sites.google.com/sungshin.ac.kr/ssl/home)<br>
@@ -19,6 +24,7 @@ Research Area : Storage Systems, Operating Systems, Distributed Systems<br>
 <a><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=Node.js&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=PHP&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=MySQL&logoColor=white"/></a>
+-->
 
 <!--
 **seolryeong/seolryeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
